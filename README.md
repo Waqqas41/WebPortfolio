@@ -8,9 +8,6 @@
 [secondchancedecor.ca
 ](https://www.secondchancedecor.ca/) - e-commerce furniture store
 
-[fairviewedconsulting.com
-](https://fairviewedconsulting.com) - immigration consulting site
-
 [dailydive.tech
 ](https://dailydive.tech/) - custom UI and code for a newsletter app
 ## UIs
